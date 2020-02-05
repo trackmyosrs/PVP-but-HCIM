@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 102.4
- - **Last Update:** 2020-02-05 19:23:29 UTC
+ - **Last Update:** 2020-02-05 19:49:30 UTC
 
 ## Hiscores
 
@@ -42,7 +42,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 ### Minigames and Bosses
 
 | Minigame / Boss | Score / Kill count |
-|--|--|--|
+|--|--|
 | Clue Scrolls (all) | 84 |
 | Clue Scrolls (beginner) | 2 |
 | Clue Scrolls (easy) | 35 |
