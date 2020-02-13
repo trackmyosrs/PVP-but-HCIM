@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 103.2
- - **Last Update:** 2020-02-13 12:46:53 UTC
+ - **Last Update:** 2020-02-13 19:57:24 UTC
 
 ## Hiscores
 
@@ -57,6 +57,6 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Dagannoth Supreme | 4 |
 | Giant Mole | 12 |
 | Kalphite Queen | 23 |
-| Venenatis | 2 |
-| Zalcano | 54 |
-| N/A | 10 |
+| TzTok-Jad | 2 |
+| Wintertodt | 54 |
+| Zulrah | 10 |
