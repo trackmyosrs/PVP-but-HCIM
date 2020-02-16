@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 103.2
- - **Last Update:** 2020-02-15 12:19:02 UTC
+ - **Last Update:** 2020-02-16 14:44:06 UTC
 
 ## Hiscores
 
@@ -14,14 +14,14 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1547 | 41,752,252 |
+| Overall | 1547 | 41,857,717 |
 | Attack | 70 | 737,822 |
 | Defence | 82 | 2,518,480 |
-| Strength | 90 | 5,365,127 |
-| Hitpoints | 92 | 6,787,432 |
-| Ranged | 95 | 9,080,123 |
+| Strength | 90 | 5,380,379 |
+| Hitpoints | 92 | 6,809,902 |
+| Ranged | 95 | 9,094,745 |
 | Prayer | 63 | 389,753 |
-| Magic | 95 | 9,428,627 |
+| Magic | 95 | 9,481,748 |
 | Cooking | 70 | 748,562 |
 | Woodcutting | 70 | 802,592 |
 | Fletching | 71 | 835,264 |
@@ -49,7 +49,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Clue Scrolls (medium) | 21 |
 | Clue Scrolls (hard) | 25 |
 | Clue Scrolls (elite) | 1 |
-| Barrows Chests | 925 |
+| Barrows Chests | 944 |
 | Bryophyta | 12 |
 | Crazy Archaeologist | 27 |
 | Dagannoth Prime | 55 |
