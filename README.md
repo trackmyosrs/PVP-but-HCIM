@@ -5,8 +5,8 @@ This file is updated at minimum every minute. It will only be changed if changes
 ## Info
 
  - **Alive:** Yes
- - **Combat Level:** 103.2
- - **Last Update:** 2020-02-22 15:27:02 UTC
+ - **Combat Level:** 103.5
+ - **Last Update:** 2020-02-22 17:58:16 UTC
 
 ## Hiscores
 
@@ -14,14 +14,14 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1549 | 42,184,795 |
+| Overall | 1551 | 42,276,244 |
 | Attack | 70 | 737,822 |
-| Defence | 82 | 2,524,496 |
-| Strength | 90 | 5,380,474 |
-| Hitpoints | 92 | 6,879,679 |
-| Ranged | 95 | 9,297,981 |
-| Prayer | 63 | 389,753 |
-| Magic | 95 | 9,519,290 |
+| Defence | 82 | 2,524,928 |
+| Strength | 90 | 5,380,486 |
+| Hitpoints | 92 | 6,881,388 |
+| Ranged | 95 | 9,302,684 |
+| Prayer | 64 | 407,321 |
+| Magic | 95 | 9,553,909 |
 | Cooking | 70 | 748,562 |
 | Woodcutting | 70 | 802,592 |
 | Fletching | 71 | 835,264 |
@@ -30,8 +30,8 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Crafting | 60 | 275,340 |
 | Smithing | 55 | 175,732 |
 | Mining | 52 | 127,631 |
-| Herblore | 58 | 242,901 |
-| Agility | 59 | 250,451 |
+| Herblore | 58 | 242,923 |
+| Agility | 60 | 282,835 |
 | Thieving | 60 | 286,367 |
 | Slayer | 80 | 1,986,128 |
 | Farming | 50 | 105,027 |
@@ -57,6 +57,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Dagannoth Supreme | 4 |
 | Giant Mole | 12 |
 | Kalphite Queen | 23 |
+| Skotizo | 1 |
 | TzTok-Jad | 2 |
 | Wintertodt | 54 |
 | Zulrah | 10 |
