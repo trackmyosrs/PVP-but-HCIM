@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 103.5
- - **Last Update:** 2020-02-23 11:04:02 UTC
+ - **Last Update:** 2020-02-23 11:28:03 UTC
 
 ## Hiscores
 
@@ -14,14 +14,14 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1551 | 42,350,163 |
+| Overall | 1551 | 42,351,825 |
 | Attack | 70 | 737,822 |
-| Defence | 82 | 2,526,103 |
+| Defence | 82 | 2,526,367 |
 | Strength | 90 | 5,380,526 |
-| Hitpoints | 92 | 6,896,308 |
-| Ranged | 95 | 9,333,603 |
+| Hitpoints | 92 | 6,896,578 |
+| Ranged | 95 | 9,334,151 |
 | Prayer | 64 | 407,321 |
-| Magic | 95 | 9,579,862 |
+| Magic | 95 | 9,580,442 |
 | Cooking | 70 | 748,562 |
 | Woodcutting | 70 | 802,592 |
 | Fletching | 71 | 835,264 |
@@ -43,11 +43,11 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Minigame / Boss | Score / Kill count |
 |--|--|
-| Clue Scrolls (all) | 86 |
+| Clue Scrolls (all) | 87 |
 | Clue Scrolls (beginner) | 2 |
 | Clue Scrolls (easy) | 35 |
 | Clue Scrolls (medium) | 21 |
-| Clue Scrolls (hard) | 27 |
+| Clue Scrolls (hard) | 28 |
 | Clue Scrolls (elite) | 1 |
 | Barrows Chests | 944 |
 | Bryophyta | 12 |
