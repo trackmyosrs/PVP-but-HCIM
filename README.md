@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 103.5
- - **Last Update:** 2020-02-23 13:04:05 UTC
+ - **Last Update:** 2020-02-24 20:37:03 UTC
 
 ## Hiscores
 
@@ -14,15 +14,15 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1551 | 42,402,698 |
+| Overall | 1552 | 42,617,421 |
 | Attack | 70 | 737,822 |
-| Defence | 82 | 2,527,580 |
-| Strength | 90 | 5,380,526 |
-| Hitpoints | 92 | 6,909,195 |
-| Ranged | 95 | 9,370,788 |
+| Defence | 82 | 2,529,050 |
+| Strength | 90 | 5,380,534 |
+| Hitpoints | 92 | 6,931,236 |
+| Ranged | 95 | 9,433,150 |
 | Prayer | 64 | 407,321 |
-| Magic | 95 | 9,580,818 |
-| Cooking | 70 | 748,562 |
+| Magic | 95 | 9,607,875 |
+| Cooking | 71 | 849,962 |
 | Woodcutting | 70 | 802,592 |
 | Fletching | 71 | 835,264 |
 | Fishing | 53 | 140,376 |
@@ -30,9 +30,9 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Crafting | 60 | 276,190 |
 | Smithing | 55 | 175,732 |
 | Mining | 52 | 127,631 |
-| Herblore | 58 | 242,923 |
+| Herblore | 58 | 243,298 |
 | Agility | 60 | 282,835 |
-| Thieving | 60 | 286,437 |
+| Thieving | 60 | 286,447 |
 | Slayer | 80 | 1,986,128 |
 | Farming | 50 | 105,027 |
 | Runecraft | 46 | 69,434 |
@@ -60,4 +60,4 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Skotizo | 1 |
 | TzTok-Jad | 2 |
 | Wintertodt | 54 |
-| Zulrah | 14 |
+| Zulrah | 15 |
