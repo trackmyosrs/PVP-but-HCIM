@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 103.5
- - **Last Update:** 2020-02-26 19:12:02 UTC
+ - **Last Update:** 2020-02-26 21:30:04 UTC
 
 ## Hiscores
 
@@ -14,14 +14,14 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1552 | 42,721,336 |
+| Overall | 1553 | 42,805,488 |
 | Attack | 70 | 737,822 |
-| Defence | 82 | 2,531,159 |
-| Strength | 90 | 5,380,550 |
-| Hitpoints | 92 | 6,953,234 |
-| Ranged | 95 | 9,485,777 |
+| Defence | 82 | 2,532,500 |
+| Strength | 90 | 5,380,574 |
+| Hitpoints | 92 | 6,971,698 |
+| Ranged | 95 | 9,533,037 |
 | Prayer | 64 | 407,321 |
-| Magic | 95 | 9,631,625 |
+| Magic | 95 | 9,643,720 |
 | Cooking | 71 | 849,962 |
 | Woodcutting | 70 | 802,592 |
 | Fletching | 71 | 835,264 |
@@ -30,7 +30,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Crafting | 60 | 276,200 |
 | Smithing | 55 | 175,732 |
 | Mining | 52 | 127,631 |
-| Herblore | 58 | 243,301 |
+| Herblore | 59 | 248,269 |
 | Agility | 60 | 282,835 |
 | Thieving | 60 | 289,849 |
 | Slayer | 80 | 1,986,128 |
@@ -43,11 +43,11 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Minigame / Boss | Score / Kill count |
 |--|--|
-| Clue Scrolls (all) | 88 |
+| Clue Scrolls (all) | 89 |
 | Clue Scrolls (beginner) | 2 |
 | Clue Scrolls (easy) | 35 |
 | Clue Scrolls (medium) | 21 |
-| Clue Scrolls (hard) | 29 |
+| Clue Scrolls (hard) | 30 |
 | Clue Scrolls (elite) | 1 |
 | Barrows Chests | 944 |
 | Bryophyta | 12 |
@@ -60,4 +60,4 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Skotizo | 1 |
 | TzTok-Jad | 2 |
 | Wintertodt | 54 |
-| Zulrah | 20 |
+| Zulrah | 23 |
