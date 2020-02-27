@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 103.5
- - **Last Update:** 2020-02-26 21:30:04 UTC
+ - **Last Update:** 2020-02-27 18:56:04 UTC
 
 ## Hiscores
 
@@ -14,20 +14,20 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1553 | 42,805,488 |
+| Overall | 1553 | 42,810,054 |
 | Attack | 70 | 737,822 |
 | Defence | 82 | 2,532,500 |
 | Strength | 90 | 5,380,574 |
-| Hitpoints | 92 | 6,971,698 |
+| Hitpoints | 92 | 6,972,445 |
 | Ranged | 95 | 9,533,037 |
 | Prayer | 64 | 407,321 |
-| Magic | 95 | 9,643,720 |
+| Magic | 95 | 9,647,454 |
 | Cooking | 71 | 849,962 |
 | Woodcutting | 70 | 802,592 |
 | Fletching | 71 | 835,264 |
 | Fishing | 53 | 140,376 |
 | Firemaking | 73 | 1,062,518 |
-| Crafting | 60 | 276,200 |
+| Crafting | 60 | 276,285 |
 | Smithing | 55 | 175,732 |
 | Mining | 52 | 127,631 |
 | Herblore | 59 | 248,269 |
@@ -60,4 +60,4 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Skotizo | 1 |
 | TzTok-Jad | 2 |
 | Wintertodt | 54 |
-| Zulrah | 23 |
+| Zulrah | 24 |
