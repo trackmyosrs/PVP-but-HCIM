@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 103.5
- - **Last Update:** 2020-02-28 17:01:04 UTC
+ - **Last Update:** 2020-02-28 17:46:03 UTC
 
 ## Hiscores
 
@@ -14,14 +14,14 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1554 | 42,899,825 |
+| Overall | 1554 | 42,903,381 |
 | Attack | 70 | 737,822 |
 | Defence | 82 | 2,532,500 |
 | Strength | 90 | 5,388,879 |
-| Hitpoints | 92 | 6,990,604 |
-| Ranged | 95 | 9,544,569 |
+| Hitpoints | 92 | 6,991,447 |
+| Ranged | 95 | 9,547,102 |
 | Prayer | 64 | 407,321 |
-| Magic | 96 | 9,699,194 |
+| Magic | 96 | 9,699,374 |
 | Cooking | 71 | 849,962 |
 | Woodcutting | 70 | 802,592 |
 | Fletching | 71 | 835,264 |
@@ -57,6 +57,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Dagannoth Supreme | 4 |
 | Giant Mole | 12 |
 | Kalphite Queen | 23 |
+| King Black Dragon | 2 |
 | Skotizo | 1 |
 | TzTok-Jad | 2 |
 | Wintertodt | 54 |
