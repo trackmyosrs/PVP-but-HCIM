@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 103.5
- - **Last Update:** 2020-02-28 17:46:03 UTC
+ - **Last Update:** 2020-02-29 13:50:02 UTC
 
 ## Hiscores
 
@@ -14,14 +14,14 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1554 | 42,903,381 |
+| Overall | 1559 | 42,944,822 |
 | Attack | 70 | 737,822 |
 | Defence | 82 | 2,532,500 |
 | Strength | 90 | 5,388,879 |
-| Hitpoints | 92 | 6,991,447 |
-| Ranged | 95 | 9,547,102 |
+| Hitpoints | 92 | 6,991,842 |
+| Ranged | 95 | 9,548,289 |
 | Prayer | 64 | 407,321 |
-| Magic | 96 | 9,699,374 |
+| Magic | 96 | 9,699,565 |
 | Cooking | 71 | 849,962 |
 | Woodcutting | 70 | 802,592 |
 | Fletching | 71 | 835,264 |
@@ -36,7 +36,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Slayer | 80 | 1,986,128 |
 | Farming | 50 | 105,027 |
 | Runecraft | 46 | 69,434 |
-| Hunter | 45 | 61,699 |
+| Hunter | 50 | 101,367 |
 | Construction | 60 | 285,300 |
 
 ### Minigames and Bosses
@@ -57,7 +57,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Dagannoth Supreme | 4 |
 | Giant Mole | 12 |
 | Kalphite Queen | 23 |
-| King Black Dragon | 2 |
+| King Black Dragon | 3 |
 | Skotizo | 1 |
 | TzTok-Jad | 2 |
 | Wintertodt | 54 |
