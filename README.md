@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 103.5
- - **Last Update:** 2020-03-04 17:36:27 UTC
+ - **Last Update:** 2020-03-04 19:31:04 UTC
 
 ## Hiscores
 
@@ -14,14 +14,14 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1561 | 43,396,865 |
+| Overall | 1561 | 43,465,207 |
 | Attack | 70 | 737,851 |
 | Defence | 82 | 2,578,569 |
-| Strength | 90 | 5,395,773 |
-| Hitpoints | 92 | 7,083,259 |
-| Ranged | 96 | 9,733,468 |
+| Strength | 90 | 5,399,345 |
+| Hitpoints | 92 | 7,099,221 |
+| Ranged | 96 | 9,767,910 |
 | Prayer | 64 | 418,553 |
-| Magic | 96 | 9,768,381 |
+| Magic | 96 | 9,782,634 |
 | Cooking | 71 | 849,962 |
 | Woodcutting | 70 | 802,592 |
 | Fletching | 71 | 835,264 |
@@ -30,7 +30,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Crafting | 60 | 277,451 |
 | Smithing | 55 | 175,732 |
 | Mining | 52 | 127,731 |
-| Herblore | 59 | 248,442 |
+| Herblore | 59 | 248,555 |
 | Agility | 60 | 282,852 |
 | Thieving | 60 | 289,849 |
 | Slayer | 80 | 2,004,498 |
@@ -49,7 +49,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Clue Scrolls (medium) | 21 |
 | Clue Scrolls (hard) | 31 |
 | Clue Scrolls (elite) | 1 |
-| Barrows Chests | 966 |
+| Barrows Chests | 971 |
 | Bryophyta | 12 |
 | Crazy Archaeologist | 27 |
 | Dagannoth Prime | 55 |
