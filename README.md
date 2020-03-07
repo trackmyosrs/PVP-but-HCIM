@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 104.0
- - **Last Update:** 2020-03-07 11:43:02 UTC
+ - **Last Update:** 2020-03-07 18:09:07 UTC
 
 ## Hiscores
 
@@ -14,14 +14,14 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1564 | 44,191,469 |
+| Overall | 1564 | 44,286,069 |
 | Attack | 70 | 737,851 |
-| Defence | 83 | 2,878,375 |
-| Strength | 90 | 5,409,145 |
-| Hitpoints | 93 | 7,238,231 |
-| Ranged | 96 | 9,844,645 |
+| Defence | 83 | 2,880,251 |
+| Strength | 90 | 5,409,173 |
+| Hitpoints | 93 | 7,257,960 |
+| Ranged | 96 | 9,902,045 |
 | Prayer | 64 | 420,833 |
-| Magic | 96 | 9,886,627 |
+| Magic | 96 | 9,888,287 |
 | Cooking | 71 | 849,962 |
 | Woodcutting | 70 | 802,592 |
 | Fletching | 71 | 835,264 |
@@ -33,7 +33,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Herblore | 59 | 248,776 |
 | Agility | 60 | 282,853 |
 | Thieving | 60 | 289,849 |
-| Slayer | 80 | 2,090,983 |
+| Slayer | 80 | 2,104,890 |
 | Farming | 50 | 105,027 |
 | Runecraft | 47 | 77,234 |
 | Hunter | 50 | 101,579 |
@@ -43,11 +43,11 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Minigame / Boss | Score / Kill count |
 |--|--|
-| Clue Scrolls (all) | 91 |
+| Clue Scrolls (all) | 93 |
 | Clue Scrolls (beginner) | 2 |
 | Clue Scrolls (easy) | 36 |
 | Clue Scrolls (medium) | 21 |
-| Clue Scrolls (hard) | 31 |
+| Clue Scrolls (hard) | 33 |
 | Clue Scrolls (elite) | 1 |
 | Barrows Chests | 986 |
 | Bryophyta | 12 |
