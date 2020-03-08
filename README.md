@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 104.2
- - **Last Update:** 2020-03-08 09:33:04 UTC
+ - **Last Update:** 2020-03-08 11:34:03 UTC
 
 ## Hiscores
 
@@ -14,15 +14,15 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1565 | 44,385,580 |
+| Overall | 1568 | 44,657,085 |
 | Attack | 70 | 737,851 |
 | Defence | 84 | 2,951,838 |
-| Strength | 90 | 5,409,173 |
-| Hitpoints | 93 | 7,282,009 |
+| Strength | 90 | 5,409,182 |
+| Hitpoints | 93 | 7,285,049 |
 | Ranged | 96 | 9,902,730 |
 | Prayer | 64 | 420,833 |
-| Magic | 96 | 9,890,563 |
-| Cooking | 71 | 849,962 |
+| Magic | 96 | 9,906,819 |
+| Cooking | 74 | 1,102,162 |
 | Woodcutting | 70 | 802,592 |
 | Fletching | 71 | 835,264 |
 | Fishing | 53 | 140,376 |
@@ -61,4 +61,4 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Skotizo | 1 |
 | TzTok-Jad | 2 |
 | Wintertodt | 54 |
-| Zulrah | 35 |
+| Zulrah | 39 |
