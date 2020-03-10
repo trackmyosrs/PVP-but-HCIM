@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 104.2
- - **Last Update:** 2020-03-10 18:06:13 UTC
+ - **Last Update:** 2020-03-10 19:32:07 UTC
 
 ## Hiscores
 
@@ -14,19 +14,19 @@ This file is updated at minimum every minute. It will only be changed if changes
 
 | Skill | Level | XP |
 |--|--|--|
-| Overall | 1568 | 45,110,517 |
+| Overall | 1569 | 45,131,421 |
 | Attack | 70 | 737,851 |
-| Defence | 84 | 3,092,367 |
+| Defence | 84 | 3,092,433 |
 | Strength | 90 | 5,417,238 |
-| Hitpoints | 93 | 7,353,964 |
-| Ranged | 96 | 9,917,085 |
+| Hitpoints | 93 | 7,356,162 |
+| Ranged | 96 | 9,918,283 |
 | Prayer | 64 | 420,833 |
-| Magic | 96 | 9,991,084 |
-| Cooking | 74 | 1,203,162 |
+| Magic | 96 | 9,999,746 |
+| Cooking | 75 | 1,211,722 |
 | Woodcutting | 70 | 802,592 |
 | Fletching | 71 | 835,363 |
 | Fishing | 53 | 140,376 |
-| Firemaking | 73 | 1,062,638 |
+| Firemaking | 73 | 1,062,858 |
 | Crafting | 60 | 277,991 |
 | Smithing | 55 | 175,732 |
 | Mining | 52 | 127,766 |
@@ -61,4 +61,4 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Skotizo | 1 |
 | TzTok-Jad | 2 |
 | Wintertodt | 54 |
-| Zulrah | 47 |
+| Zulrah | 50 |
