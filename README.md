@@ -6,7 +6,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 
  - **Alive:** Yes
  - **Combat Level:** 104.2
- - **Last Update:** 2020-03-10 19:32:07 UTC
+ - **Last Update:** 2020-03-13 09:44:13 UTC
 
 ## Hiscores
 
@@ -51,14 +51,7 @@ This file is updated at minimum every minute. It will only be changed if changes
 | Clue Scrolls (elite) | 1 |
 | Barrows Chests | 1,000 |
 | Bryophyta | 12 |
-| Crazy Archaeologist | 27 |
 | Dagannoth Prime | 55 |
 | Dagannoth Rex | 67 |
-| Dagannoth Supreme | 4 |
-| Giant Mole | 12 |
-| Kalphite Queen | 23 |
-| King Black Dragon | 3 |
-| Skotizo | 1 |
-| TzTok-Jad | 2 |
 | Wintertodt | 54 |
 | Zulrah | 50 |
